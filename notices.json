@@ -1,0 +1,19 @@
+
+{
+  "notices": [
+    {
+      "id": "notice-001",
+      "type": "important",
+      "title": "14일 서버 오픈 안내",
+      "content": "미르덴의 마지막 14일이 곧 시작됩니다.",
+      "date": "2026-11-02"
+    },
+    {
+      "id": "notice-002",
+      "type": "general",
+      "title": "런처 이용 안내",
+      "content": "Microsoft 계정으로 로그인한 후 게임 시작 버튼을 눌러주세요.",
+      "date": "2026-10-18"
+    }
+  ]
+}
